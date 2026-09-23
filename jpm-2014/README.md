@@ -20,7 +20,8 @@ A five-week, team-based governance, risk and compliance (GRC) simulation built a
 | [Tasks 1–8](tasks/) | Weekly task sheets with objectives, questions, templates and a self-check |
 | [Capstone](capstone/) | Task 9 (incident tabletop and executive briefing) and the final team presentation brief |
 | [Rubric](rubric.md) | How the work is graded |
-| [Downloads](dist/) | The complete student workbook and case study as DOCX and PDF |
+| [Answer key](answer-key/) | Instructor guide, answer-key summary and model answers for Tasks 1–9 |
+| [Downloads](dist/) | Student workbook, case study, instructor guide and model answers as DOCX and PDF |
 
 ## Five-week schedule
 
@@ -42,9 +43,9 @@ The simulation is designed for six learners, each owning one role: GRC Coordinat
 
 NIST Cybersecurity Framework (CSF), FFIEC guidance, the GLBA Safeguards Rule, OCC Heightened Standards, and current SEC cybersecurity disclosure expectations.
 
-## For instructors
+## Answer key
 
-The instructor guide, answer key and model answers for all nine tasks are kept in a separate private repository so learners can't read the answers ahead of time. If you're teaching with these materials, request access through [LinkedIn](https://www.linkedin.com/in/garynair/).
+The instructor guide, answer-key summary and model answers for all nine tasks are in [answer-key/](answer-key/). Learners: finish each task before opening its model answer.
 
 ## About the case
 

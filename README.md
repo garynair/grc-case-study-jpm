@@ -23,11 +23,12 @@ More cases are in preparation.
 | `tasks/` | Weekly task sheets with objectives, questions, templates and self-checks |
 | `capstone/` | The final exercise and presentation brief |
 | `rubric.md` | How the work is graded |
+| `answer-key/` | Instructor guide and model answers (finish the tasks first) |
 | `dist/` | DOCX and PDF downloads |
 
 ## Using these materials
 
-- **Self-study or study groups:** work through the tasks in order and check your work against the rubric.
+- **Self-study or study groups:** work through the tasks in order, then check your work against the rubric and the answer key.
 - **Instructors and trainers:** each case includes a delivery plan and role model you can run as-is or adapt.
 
 Case narratives are teaching adaptations of public reporting. Some details are simplified for classroom use, so check primary sources before citing specific facts. These materials are not affiliated with or endorsed by any organization named in them.
